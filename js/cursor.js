@@ -81,3 +81,5 @@ class Cursor {
     CURSOR = new Cursor();
     // 需要重新获取列表时，使用 CURSOR.refresh()
 })();
+
+<script src="//cdn.bootcss.com/pace/1.0.2/pace.min.js"></script>
